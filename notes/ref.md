@@ -17,3 +17,13 @@ API Led Connectivity
 * Microservices is like building services around a specific entity or object. A single service with multiple opearations as long as all these operations can be grouped together either fuctionally or logically. Example Cutomer Microservices. All operation relating to customer can be exposed as one single service which can bring data about customer alon from various systems. 
 
 * Cons : Loosely Coupled, Resuable Components as API & Services for accessing data & Resources.
+
+
+SOAP Webservices 
+-----------------
+
+* Provide a mechanism for system to interact with other system using some interface or contract (WSDL) via SOAP protocol.
+* SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol like http, jms 
+* SOAP messages are typically sent over http (other protocols can be used though) and soap request is sent as the body of an HTTP POST
+* SOAP request and response is always in xml format 
+* SOAP request and response are sent in SOAP Envelope
