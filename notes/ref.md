@@ -22,8 +22,12 @@ API Led Connectivity
 SOAP Webservices 
 -----------------
 
-* Provide a mechanism for system to interact with other system using some interface or contract (WSDL) via SOAP protocol.
-* SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol like http, jms 
+* Provide a mechanism for system to interact with other system using some interface or contract (WSDL) using SOAP protocol.
+
+* SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol like http, jms
+
 * SOAP messages are typically sent over http (other protocols can be used though) and soap request is sent as the body of an HTTP POST
+
 * SOAP request and response is always in xml format 
+
 * SOAP request and response are sent in SOAP Envelope
