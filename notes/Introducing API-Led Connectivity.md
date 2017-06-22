@@ -4,7 +4,7 @@
 
 * Use Mule Anypoint Platform to implement API Led connectivity and to take an API through its complete life cycle.
 
-     _**API Complete Life cycle : design, build deploy manage & govern_**
+     ***API Complete Life cycle : design, build deploy manage & govern***
 
 * Use Anypoint studio to build and debug integrations & API implementations 
 
