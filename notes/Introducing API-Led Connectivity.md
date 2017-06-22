@@ -1,5 +1,7 @@
 # Implementing API-Led Connectivity with Anypoint Platform #
 
+
+---
 #### Introduction ####
 ---
 
@@ -14,6 +16,7 @@
 ![api objectives](https://user-images.githubusercontent.com/4846462/27419724-560c5c5a-571a-11e7-9581-343f58d96a3f.JPG)
 
 
+---
 #### Introduction to API-led Connectivity ####
 ---
 
@@ -50,6 +53,9 @@
 
 * Cons : Loosely Coupled, Resuable Components as API & Services for accessing data & Resources.
 
+
+
+---
 #### Introducing APIs and web services ####
 ---
 
@@ -61,6 +67,8 @@
 
 * An API gateway can act as an proxy for the actual weservice and it controlls whats goes in & comes out. This helps us to provide or implemenmt some security features like restricted access and usage. 
 
+
+---
 #### Understanding web services ####
 ---
 
@@ -73,6 +81,7 @@
 ![types of webservices](https://user-images.githubusercontent.com/4846462/27422400-ede596ee-5725-11e7-8753-28eb997d3452.JPG)
 
 
+---
 #### SOAP Webservices ####
 ---
 
