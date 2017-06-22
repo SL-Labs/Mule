@@ -9,7 +9,7 @@ Mule Reference Notes
 
 * Use Dataweave to transform data (mules own powerfull transformation language)
 
-![API Objectives] (https://raw.github.com/ravishankarhassain@gmail.com/Mule/master/screenshot/API Objectives.JPG?raw=true "API Objectives")
+![API Objectives](https://user-images.githubusercontent.com/4846462/27419724-560c5c5a-571a-11e7-9581-343f58d96a3f.JPG)
 
 API Led Connectivity
 --------------------
