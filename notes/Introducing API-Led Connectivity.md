@@ -1,6 +1,7 @@
 # Implementing API-Led Connectivity with Anypoint Platform #
 
 #### Introduction ####
+---
 
 * Use Mule Anypoint Platform to implement API Led connectivity and to take an API through its complete life cycle.
 
@@ -14,6 +15,7 @@
 
 
 #### Introduction to API-led Connectivity ####
+---
 
 ![traditional integration project](https://user-images.githubusercontent.com/4846462/27420610-90881d16-571e-11e7-8741-7ef620aee595.JPG)
 
@@ -49,6 +51,7 @@
 * Cons : Loosely Coupled, Resuable Components as API & Services for accessing data & Resources.
 
 #### Introducing APIs and web services ####
+---
 
 ![what is api?](https://user-images.githubusercontent.com/4846462/27421270-97baa3b2-5721-11e7-9fbe-2aa82aff6357.JPG)
 
@@ -58,8 +61,8 @@
 
 * An API gateway can act as an proxy for the actual weservice and it controlls whats goes in & comes out. This helps us to provide or implemenmt some security features like restricted access and usage. 
 
-##### Understanding web services #####
-
+#### Understanding web services ####
+---
 
 * A webservice is an actual implementation of an API.
 
@@ -70,7 +73,8 @@
 ![types of webservices](https://user-images.githubusercontent.com/4846462/27422400-ede596ee-5725-11e7-8753-28eb997d3452.JPG)
 
 
-##### SOAP Webservices #####
+#### SOAP Webservices ####
+---
 
 * Provide a mechanism for system to interact with other system using interface or contract document (i.e, WSDL) using SOAP protocol.
 
