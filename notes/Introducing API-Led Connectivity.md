@@ -52,15 +52,29 @@
 
 ![what is api?](https://user-images.githubusercontent.com/4846462/27421270-97baa3b2-5721-11e7-9fbe-2aa82aff6357.JPG)
 
+* API is similar to interface concept in java where you define the contract (available operations/methods, method signature like input, output, data type) and publish it to the outside world. so that at later point in time some other system can integrate and communicate with our application via API
+
+* Pros of API is that its give you an abstraction layer and hides the internal logic. This allows us to change the underlying code in the future behind the scenes without changing how people call it.
+
+* An API gateway can act as an proxy for the actual weservice and it controlls whats goes in & comes out. This helps us to provide or implemenmt some security features like restricted access and usage. 
+
+##### Understanding web services #####
 
 
+* A webservice is an actual implementation of an API.
 
-SOAP Webservices 
------------------
+![what is webservices ?](https://user-images.githubusercontent.com/4846462/27422212-3e4c16fe-5725-11e7-9a42-6a840e648175.JPG)
 
-* Provide a mechanism for system to interact with other system using some interface or contract (WSDL) using SOAP protocol.
+![rules of webservice communication](https://user-images.githubusercontent.com/4846462/27422308-8d85049c-5725-11e7-9ef9-961b902572d4.JPG)
 
-* SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol like http, jms
+![types of webservices](https://user-images.githubusercontent.com/4846462/27422400-ede596ee-5725-11e7-8753-28eb997d3452.JPG)
+
+
+##### SOAP Webservices #####
+
+* Provide a mechanism for system to interact with other system using interface or contract document (i.e, WSDL) using SOAP protocol.
+
+* SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol (like http, jms)
 
 * SOAP messages are typically sent over http (other protocols can be used though) and soap request is sent as the body of an HTTP POST
 
