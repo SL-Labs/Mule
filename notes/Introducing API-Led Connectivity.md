@@ -152,12 +152,15 @@
 
 ![API development lifecycle](https://user-images.githubusercontent.com/4846462/27511202-0410e49e-5917-11e7-91d2-ee89915b4eed.JPG)
 
-***What is Anypoin platform***
+***What is Anypoint platform***
 
-* It is a collection of untime, framework tools, integration platform & web application.
+* It is a collection of runtime, framework tools, integration platform & web application.
 
 
 ![Anypoint Platform](https://user-images.githubusercontent.com/4846462/27511410-4a92d6da-591b-11e7-8b98-2a77b2f8178b.JPG)
+
+
+![API  Development Cycle](https://user-images.githubusercontent.com/4846462/27512218-7720a36a-5931-11e7-830d-b17907065a5b.gif)
 
 
 
