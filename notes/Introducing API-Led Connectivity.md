@@ -7,7 +7,7 @@
 
 * Use Mule Anypoint Platform to implement API Led connectivity and to take an API through its complete life cycle.
 
-     ***API Complete Life cycle : design, build deploy manage & govern***
+     ***API Complete Life cycle : design, build, deploy, manage & govern***
 
 * Use Anypoint studio to build and debug integrations & API implementations 
 
@@ -65,7 +65,7 @@
 
 * Pros of API is that its give you an abstraction layer and hides the internal logic. This allows us to change the underlying code in the future behind the scenes without changing how people call it.
 
-* An API gateway can act as an proxy for the actual weservice and it controlls whats goes in & comes out. This helps us to provide or implemenmt some security features like restricted access and usage. 
+* An API gateway can act as an proxy for the actual weservice and it controlls whats goes in & comes out. This helps us to provide or implement some security features like restricted access and usage. 
 
 
 ---
@@ -94,3 +94,8 @@
 * SOAP request and response is always in xml format 
 
 * SOAP request and response are sent in SOAP Envelope
+
+
+
+
+
