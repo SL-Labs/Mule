@@ -56,7 +56,7 @@
 
 
 ---
-#### Introducing APIs and web services ####
+#### Introducing to APIs and web services ####
 ---
 
 ![what is api?](https://user-images.githubusercontent.com/4846462/27421270-97baa3b2-5721-11e7-9fbe-2aa82aff6357.JPG)
@@ -82,20 +82,58 @@
 
 
 ---
-#### SOAP Webservices ####
+#### Introducing SOAP web services ####
 ---
 
 * Provide a mechanism for system to interact with other system using interface or contract document (i.e, WSDL) using SOAP protocol.
 
 * SOAP protocol is a XML based protocol that defines the message architecture, message format, Service transport protocol (like http, jms)
 
-* SOAP messages are typically sent over http (other protocols can be used though) and soap request is sent as the body of an HTTP POST
-
-* SOAP request and response is always in xml format 
-
 * SOAP request and response are sent in SOAP Envelope
 
+* SOAP messages are typically sent over http (other protocols can be also used though like jms, udp) 
 
+* SOAP request is sent as the body of an HTTP POST
+
+* SOAP Webservice will support only xml format, hence the SOAP webservice request and response is always in xml format 
+
+
+![soap webservices](https://user-images.githubusercontent.com/4846462/27507572-dd84637a-58c9-11e7-9b57-b0605828aad0.JPG)
+
+
+![soap messages](https://user-images.githubusercontent.com/4846462/27507778-55ba6854-58ce-11e7-86fb-ef63967554fb.JPG)
+
+
+---
+#### Introducing RESTful web services ####
+---
+
+* REST is a modern or 2nd generation Webservice.
+
+* REST is light weight and doesnot require any formal contract like wsdl in SOAP Webservice.
+
+* REST supports only HTTP(S) and it will support all MIME (Multipurpose Internet Mail Extension) data format.
+
+* REST (Representation State Transfer) is an architectural style where client & server exchnage representation of data & resources using HTTP(S) protocol.
+
+* REST exposes data & resources to the external world using the uri and those uri are bounded to the standard HTTP methods. So each uri represents (created, accessed, modified) a state of that resource 
+
+
+
+![RESTful webservice request](https://user-images.githubusercontent.com/4846462/27510801-aabd676a-5910-11e7-9b39-e1f835105229.JPG)
+
+ ***Difference between PUT & PATCH***
+
+| PUT | PATCH |
+| --- | --- |
+| * PUT replaces an existing resource completely. If the resource doesnot exsist then a new resource is created. | * PATCH partially updates a resource based on the submitted data. |
+| * PUT is like replace or create | * PATCH is like update (updating just the delta information that has been submitted) |
+| * PUT is used to replace an exsisting resource and if not found then will create the resource | * PATCH is used to update an already exsisting resource |
+
+* If PATCH request submitted with 2 fields for a resource with 8 fields, then only those 2 fields are updated and for PUT request the 2 fields are updated and others are set to their default/existing values. 
+
+
+![Example REStful Webservice calls](https://user-images.githubusercontent.com/4846462/27510916-6265918e-5912-11e7-8df3-1f03b2e29b21.JPG)
 
 
 
