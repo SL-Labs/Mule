@@ -147,3 +147,18 @@
 
 * A great resource to pick the correct HTTP error code for your API: http://racksburg.com/choosing-an-http-status-code/
 
+
+     ***API Complete Life cycle : design, build, deploy, manage & govern***
+
+![API development lifecycle](https://user-images.githubusercontent.com/4846462/27511202-0410e49e-5917-11e7-91d2-ee89915b4eed.JPG)
+
+***What is Anypoin platform***
+
+* It is a collection of untime, framework tools, integration platform & web application.
+
+
+![Anypoint Platform](https://user-images.githubusercontent.com/4846462/27511410-4a92d6da-591b-11e7-8b98-2a77b2f8178b.JPG)
+
+
+
+
