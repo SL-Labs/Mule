@@ -136,4 +136,14 @@
 ![Example REStful Webservice calls](https://user-images.githubusercontent.com/4846462/27510916-6265918e-5912-11e7-8df3-1f03b2e29b21.JPG)
 
 
+![making calls to RESTful API](https://user-images.githubusercontent.com/4846462/27511078-3db03c10-5915-11e7-8542-737cb686e8c1.JPG)
+
+
+![getting response from REST Webservice](https://user-images.githubusercontent.com/4846462/27511090-79f80de2-5915-11e7-87a7-f1fdb8eeb337.JPG)
+
+
+![common HTTP response codes](https://user-images.githubusercontent.com/4846462/27511099-a00959dc-5915-11e7-8d59-5f851638733c.JPG)
+
+
+* A great resource to pick the correct HTTP error code for your API: http://racksburg.com/choosing-an-http-status-code/
 
