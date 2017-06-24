@@ -126,9 +126,9 @@
 
 | PUT | PATCH |
 | --- | --- |
-| * PUT replaces an existing resource completely. If the resource doesnot exsist then a new resource is created. | * PATCH partially updates a resource based on the submitted data. |
-| * PUT is like replace or create | * PATCH is like update (updating just the delta information that has been submitted) |
-| * PUT is used to replace an exsisting resource and if not found then will create the resource | * PATCH is used to update an already exsisting resource |
+| PUT replaces an existing resource completely. If the resource doesnot exsist then a new resource is created. | PATCH partially updates a resource based on the submitted data. |
+| PUT is like replace or create | PATCH is like update (updating just the delta information that has been submitted) |
+| PUT is used to replace an exsisting resource and if not found then will create the resource | PATCH is used to update an already exsisting resource |
 
 * If PATCH request submitted with 2 fields for a resource with 8 fields, then only those 2 fields are updated and for PUT request the 2 fields are updated and others are set to their default/existing values. 
 
