@@ -167,9 +167,9 @@
 
 * **API Manager** : It is a component in the Anypoint Platform that manages our API. It is responsible for 
 
-    1. **Version** Applying version & Managing our API
+    * **Version** : Applying version & Managing our API
 
-    2. **Secure** Apply pilicies & differnet security mechanism for our API
+    * **Secure** : Apply pilicies & differnet security mechanism for our API
 
 * **Runtime Manager** : this component in the Anypoint platform us responsible to provide the necessary environment, runtime to deploy and register our API & Applications to either On-Prem or cloud based runtime. Runtime Manager also provides monitoring capabilities to check the logs and the current status of the API
 
