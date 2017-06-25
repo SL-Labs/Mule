@@ -20,31 +20,9 @@
 #### Introduction to API-led Connectivity ####
 ---
 
-![traditional integration project](https://user-images.githubusercontent.com/4846462/27420610-90881d16-571e-11e7-8741-7ef620aee595.JPG)
 
+![introduction to api-led connectivity](https://user-images.githubusercontent.com/4846462/27516148-ac55bc80-59ab-11e7-99af-859543ae3bb0.gif)
 
-![traditional integration project pros cons](https://user-images.githubusercontent.com/4846462/27420671-e63f9c7a-571e-11e7-9d7c-73e8285b24d8.JPG)
-
-
-![traditional integration project problem](https://user-images.githubusercontent.com/4846462/27420731-2bf02398-571f-11e7-84d7-26bb66b3276e.JPG)
-
-
-![api led connectivity approach](https://user-images.githubusercontent.com/4846462/27420780-640a0406-571f-11e7-8adb-4c84c75f4957.JPG)
-
-
-![api led connectivity led approach pros](https://user-images.githubusercontent.com/4846462/27420833-95d21398-571f-11e7-8007-9a71d728ccd9.JPG)
-
-
-![api led connectivity future proof](https://user-images.githubusercontent.com/4846462/27420969-350c0a68-5720-11e7-87a4-7164a7e73a49.JPG)
-
-
-![api led connectivity future proof](https://user-images.githubusercontent.com/4846462/27421026-6c6a401a-5720-11e7-9d1d-ba0310e5daea.JPG)
-
-
-![api led connectivity future proof](https://user-images.githubusercontent.com/4846462/27421125-ea2f58c8-5720-11e7-8085-03ed04296000.JPG)
-
-
-![api led connectivity future proof Building block of MSA](https://user-images.githubusercontent.com/4846462/27421153-1694bda4-5721-11e7-844c-66efebc1370d.JPG)
 
 
 * API Led Connectivity is similar to Microservices architecture where you isolate or separate each layers of your application as API so that they can be re used.
