@@ -182,3 +182,29 @@
 * **Respond** : Based on the information we got in the previous phases, we can re-iterate our API by making chnages and roll out the next version of our API if needed.
  
 
+---
+#### AnyPoint Platform : The component ####
+---
+
+
+![anypoint platform components](https://user-images.githubusercontent.com/4846462/27517792-14103fc6-59ca-11e7-91be-c2450d9c9066.JPG)
+
+
+
+* **Anypoint Design Centre** : It conains tools & component to design and test our API, Integration Applications. It has the following components 
+
+    * Anypoint Studio
+    * API Designer
+    * Connector Dev Kit [Similar to Camel Components]
+    
+* **Anypoint Management Centre** : It contains tools & Components to Deploy, Register, Monitor & Analyse our API. It has the following components.
+
+    * Runtime Manager
+    * API Manager
+    * Analytics
+    
+* **Anypoint Exchange** : Allows us to discover avaiable connector, templates and other mule soft oriented application development (Kind of Docker hub)
+
+* **Mule Runtime Engine** : Its the actual Mule server / Runtime
+
+* **AnyPoint Connectors** : Used to connect with different endpoints (like camel components)
