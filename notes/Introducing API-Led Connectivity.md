@@ -150,4 +150,43 @@
 
 * **Mocking Services & API Console** : This component is used to stimulate our API design by using the RAML file
 
-* **API Portal & Exchange** : Other developer discovers the API, learns about it and gives reviews / feedbac 
+* **API Portal & Exchange** : Other developer withing the organisation discovers the API, learns about it and gives reviews / feedback 
+
+* **API Notebook** : Mock usecase and show validation of our API
+
+* Final O/P of API Definition is Service with API Spec i.e., RAML file
+
+
+***API Development cycle : API Implementation***
+
+* **AnyPoint Studio** : This component is used to build API & integration applications
+
+* **Munit** : This component is used to excute unit test case for our API & integration applications
+
+* Final O/P of API Implementation is Service is working RESTful service
+
+***API Development cycle : API ***
+
+* **API Manager** : It is a component in the Anypoint Platform that manages our API. It is responsible for 
+
+1. **Version** Applying version & Managing our API
+
+2. **Secure** Apply pilicies & differnet security mechanism for our API
+
+* **Runtime Manager** : this component in the Anypoint platform us responsible to provide the necessary environment, runtime to deploy and register our API & Applications to either On-Prem or cloud based runtime.
+
+Runtime Manager also provides monitoring capabilities to check the logs and the current status of the API
+
+
+* **API Analytics** : This component is used to Analyse the usage of our API where the request comming, from which country, why the request failed due to security and policy violations.
+
+It is used to generate charts and data for our API based on usage
+
+
+* **Troubleshoot** : Troubleshoot can be done from all of these phase and can be driven from API manager, Runtime, API analytics.
+
+* **Scalability** : Runtime Manager allows us to scale our API by increasing the amount of workers in a cloud based deployment.
+
+* **Respond** : Based on the information we got in the previous phases, we can re-iterate our API by making chnages and roll out the next version of our API if needed.
+ 
+
