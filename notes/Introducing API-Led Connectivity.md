@@ -130,7 +130,10 @@
 
 ![API development lifecycle](https://user-images.githubusercontent.com/4846462/27511202-0410e49e-5917-11e7-91d2-ee89915b4eed.JPG)
 
-***What is Anypoint platform***
+
+---
+#### What is Anypoint platform ####
+---
 
 * It is a collection of runtime, framework tools, integration platform & web application.
 
@@ -141,5 +144,10 @@
 ![API  Development Cycle](https://user-images.githubusercontent.com/4846462/27512218-7720a36a-5931-11e7-830d-b17907065a5b.gif)
 
 
+***API Development cycle : API Definition***
 
+* **API Designer** : Its an web based IDE to build RAML (RESTful Application Modelling Language) files a.k.a API Spec
 
+* **Mocking Services & API Console** : This component is used to stimulate our API design by using the RAML file
+
+* **API Portal & Exchange** : Other developer discovers the API, learns about it and gives reviews / feedbac 
