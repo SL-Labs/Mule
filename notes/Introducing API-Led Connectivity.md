@@ -208,3 +208,10 @@
 * **Mule Runtime Engine** : Its the actual Mule server / Runtime
 
 * **AnyPoint Connectors** : Used to connect with different endpoints (like camel components)
+
+
+![anypoint platform application networks](https://user-images.githubusercontent.com/4846462/27517870-37de1dbe-59cb-11e7-992c-37a3c68dbb8d.JPG)
+
+![anypoint platform webapp core funtionality](https://user-images.githubusercontent.com/4846462/27517896-bd92ad76-59cb-11e7-86a9-90ad317418dd.JPG)
+
+![anypoint platform summary](https://user-images.githubusercontent.com/4846462/27517949-e8a0378a-59cc-11e7-8a9f-22eed97003a6.JPG)
