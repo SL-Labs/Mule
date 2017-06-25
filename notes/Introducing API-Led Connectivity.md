@@ -143,7 +143,6 @@
 
 ![API  Development Cycle](https://user-images.githubusercontent.com/4846462/27512218-7720a36a-5931-11e7-830d-b17907065a5b.gif)
 
-
 ***API Development cycle : API Definition***
 
 * **API Designer** : Its an web based IDE to build RAML (RESTful Application Modelling Language) files a.k.a API Spec
@@ -156,7 +155,6 @@
 
 * Final O/P of API Definition is Service with API Spec i.e., RAML file
 
-
 ***API Development cycle : API Implementation***
 
 * **AnyPoint Studio** : This component is used to build API & integration applications
@@ -165,23 +163,17 @@
 
 * Final O/P of API Implementation is Service is working RESTful service
 
-***API Development cycle : API ***
+***API Development cycle : API***
 
 * **API Manager** : It is a component in the Anypoint Platform that manages our API. It is responsible for 
 
-1. **Version** Applying version & Managing our API
+    1. **Version** Applying version & Managing our API
 
-2. **Secure** Apply pilicies & differnet security mechanism for our API
+    2. **Secure** Apply pilicies & differnet security mechanism for our API
 
-* **Runtime Manager** : this component in the Anypoint platform us responsible to provide the necessary environment, runtime to deploy and register our API & Applications to either On-Prem or cloud based runtime.
+* **Runtime Manager** : this component in the Anypoint platform us responsible to provide the necessary environment, runtime to deploy and register our API & Applications to either On-Prem or cloud based runtime. Runtime Manager also provides monitoring capabilities to check the logs and the current status of the API
 
-Runtime Manager also provides monitoring capabilities to check the logs and the current status of the API
-
-
-* **API Analytics** : This component is used to Analyse the usage of our API where the request comming, from which country, why the request failed due to security and policy violations.
-
-It is used to generate charts and data for our API based on usage
-
+* **API Analytics** : This component is used to Analyse the usage of our API where the request comming, from which country, why the request failed due to security and policy violations.It is used to generate charts and data for our API based on usage
 
 * **Troubleshoot** : Troubleshoot can be done from all of these phase and can be driven from API manager, Runtime, API analytics.
 
